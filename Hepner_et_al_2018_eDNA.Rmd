@@ -1,0 +1,76 @@
+---
+title: "Hepner_et_al_2018_eDNA"
+author: "Megan Hepner"
+date: "February 26, 2018"
+output: html_document
+---
+
+```{r librarys}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(ggplot2)
+library(gridExtra) #grid.arrange
+library(tidyverse)
+library(VennDiagram)
+
+```
+
+# Dive Log 
+
+Site: Looe Key (Buoy 31)
+Date: May 23rd 2016 
+Latitude: 24.32499 
+Longitude: -81.24971
+Max dive depth: 45 ft 
+Underwater Visibility: 40 ft 
+Water Temperature (F): 84
+Current: None 
+Divers: Megan Hepner (USF) & Lonny Anderson (NOAA)
+
+Site: Western Sambo (Buoy "O")
+Date: May 23rd 2016
+Latitude: 24.29007
+Longitude: -81.42225 
+Max dive depth: 57 ft 
+Underwater Visibility: 20 ft 
+Water Temperature (F): 82
+Current: None
+Divers: Megan Hepner (USF) & Lonny Anderson (NOAA)
+
+Site: Molasses Reef (Buoy 27)
+Date: May 25th 2016
+Latitude: 25.00439
+Longitude: -80.22468
+Max dive depth: 50 ft 
+Underwater Visibility: 30 ft 
+Water Temperature (F): 85 
+Current: Moderate-High 
+Divers: Megan Hepner (USF) & Lonny Anderson (NOAA)
+
+```{r read dataset}
+
+dive_surveys = read_csv("may_2016_dive_surveys.csv")
+
+#Looe Key 18 families, 36 species
+#Western Sambo 13 families, 38 species 
+#Molasses Reef 14 families, 30 species 
+
+MR = dive_surveys %>% 
+  select(molasses_reef, family_scientific_name, scientific_name) %>%
+  filter(molasses_reef != 0)
+  length(unique(MR$family_scientific_name))
+
+```
+
+```{r Venn diograms}
+
+LK_VD = draw.pairwise.venn(
+  area1 = ,
+  area2 = ,
+  category = c("Visual Surveys", "eDNA 12S"),
+  fill = c("yellow","blue"))
+
+WS_VD
+MR_VD 
+
+```

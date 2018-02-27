@@ -1,0 +1,61 @@
+family_common_name ,common_name ,family_scientific_name,scientific_name,looe_key,western_sambo,molasses_reef
+Surgeonfishes,Blue Tang ,Acanthuridae,Acanthurus coeruleus,1,1,1
+Surgeonfishes,Doctorfish ,Acanthuridae,Acanthurus chirurgus,1,1,1
+Jacks,Blue Runner ,Carangidae,Caranx crysos,1,1,0
+Butterflyfish,Foureye Butterflyfish,Chaetodontidae,Chaetodon capistratus,1,1,1
+Butterflyfish,Reef Butterflyfish,Chaetodontidae,Chaetodon sedentarius,0,0,1
+Butterflyfish,Spotfin Butterflyfish,Chaetodontidae,Chaetodon ocellatus,0,1,1
+Goby ,Glass Goby ,Gobiidae,Gobiopterus chuno,0,1,0
+Goby ,Goby Sp. ,Gobiidae,NA,1,0,0
+Goby ,Neon Goby ,Gobiidae,Elacatinus oceanops,0,1,0
+Grunt,Caesar Grunt ,Haemulidae,Haemulon carbonarium,1,1,0
+Grunt,French Grunt ,Haemulidae,Haemulon flavolineatum,1,1,1
+Grunt,Porkfish,Haemulidae,Anisotremus virginicus,0,1,0
+Grunt,Tomtate ,Haemulidae,Haemulon aurolineatum,0,1,0
+Grunt,White Grunt ,Haemulidae,Haemulon plumierii,0,1,0
+Sea chubs ,Bermuda Chub,Kyphosidae,Kyphosus sectatrix,1,0,0
+Wrasse,Bluehead Wrasse ,Labridae,Thalassoma bifasciatum,1,1,1
+Wrasse,Clown Wrasse ,Labridae,Halichoeres maculipinna,0,1,1
+Wrasse,Puddingwife ,Labridae,Halichoeres radiatus,0,0,1
+Wrasse,Slippery Dick,Labridae,Halichoeres bivittatus,0,0,1
+Wrasse,Spanish Hogfish,Labridae,Bodianus rufus,0,1,0
+Wrasse,Yellowhead Wrasse ,Labridae,Halichoeres garnoti,1,1,1
+Snapper,Mangrove Snapper ,Lutjanidae,Lutjanus griseus,1,1,1
+Snapper,Mutton Snapper,Lutjanidae,Lutjanus analis,0,0,1
+Snapper,School Master Snapper,Lutjanidae,Lutjanus apodus,0,1,0
+Snapper,Yellowtail Snapper,Lutjanidae,Ocyurus chrysurus,1,1,0
+Filefish,Scrawled Filefish,Monacanthidae,Aluterus scriptus,1,0,1
+Goatfishes ,Spotted Goatfish ,Mullidae,Pseudupeneus maculatus,1,1,0
+Moray,Goldentail Moray,Muraenidae,Gymnothorax miliaris,1,0,0
+Moray,Spotted Moray ,Muraenidae,Gymnothorax moringa,1,0,1
+Blenny,Blenny Sp.,Blenniidae ,NA,1,0,0
+Boxfishes,Smooth Trunkfish ,Ostraciidae,Lactophrys triqueter,1,0,0
+Angelfish,Blue Angelfish ,Pomacanthidae,Holacanthus bermudensis,1,1,1
+Angelfish,Gray Anglefish ,Pomacanthidae,Pomacanthus arcuatus,0,1,1
+Angelfish,Queen Angelfish ,Pomacanthidae,Holacanthus ciliaris,0,1,1
+Angelfish,Rockbeauty ,Pomacanthidae,Holacanthus tricolor,1,1,1
+Damselfish and Chromis,Beaugregory,Pomacentridae,Stegastes leucostictus,1,0,0
+Damselfish and Chromis,Bicolor Damselfish,Pomacentridae,Stegastes partitus,1,1,1
+Damselfish and Chromis,Blue Chromis ,Pomacentridae,Chromis cyanea,1,1,1
+Damselfish and Chromis,Blue Damselfish,Pomacentridae,Chrysiptera cyanea,0,1,0
+Damselfish and Chromis,Dusky Chromis ,Pomacentridae,Chromis pelloura,0,1,0
+Damselfish and Chromis,Dusky Damselfish ,Pomacentridae,Stegastes adustus,1,1,0
+Damselfish and Chromis,Sergeant Major,Pomacentridae,Abudefduf saxatilis,0,1,0
+Damselfish and Chromis,Sunshine Damselfish,Pomacentridae,Chromis insolata,1,0,0
+Parrotfish,Blue Parrotfish ,Scaridae,Scarus coeruleus,1,0,1
+Parrotfish,Princess Parrotfish,Scaridae,Scarus taeniopterus,1,1,0
+Parrotfish,Redband Parrotfish,Scaridae,Sparisoma aurofrenatum,0,0,1
+Parrotfish,Stoplight Parrotfish,Scaridae,Sparisoma viride,1,1,1
+Parrotfish,Stripped Parrotfish,Scaridae,Scarus iseri,1,1,1
+Parrotfish,Yellowtail Parrotfish,Scaridae,Sparisoma rubripinne,1,0,0
+Drums and Croakers,High-Hat ,Sciaenidae,Pareques acuminatus,0,0,1
+Sea Basses and Groupers,Bass Sp.,Serranidae,NA,1,1,0
+Sea Basses and Groupers,Black Grouper ,Serranidae,Mycteroperca bonaci,0,1,0
+Sea Basses and Groupers,Butter Hamlet ,Serranidae,Hypoplectrus unicolor,1,1,0
+Sea Basses and Groupers,Graysby,Serranidae,Cephalopholis cruentata,0,0,1
+Sea Basses and Groupers,Harlequin Bass ,Serranidae,Serranus tigrinus,1,0,1
+Sea Basses and Groupers,Red Hind ,Serranidae,Epinephelus guttatus,1,0,0
+Sea Basses and Groupers,Rockhind ,Serranidae,Epinephelus adscensionis,1,1,0
+Barracudas,Great Baraccuda ,Sphyraenidae,Sphyraena barracuda,0,0,1
+Puffers,Sharpnose Puffer ,Tetraodontidae,Canthigaster rostrata,1,1,1
+,,,,,,
