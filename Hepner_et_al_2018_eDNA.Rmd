@@ -59,6 +59,11 @@ MR = dive_surveys %>%
   select(molasses_reef, family_scientific_name, scientific_name) %>%
   filter(molasses_reef != 0)
   length(unique(MR$family_scientific_name))
+  
+#Remove NA's 
+  dive_surveys_cleaned = dive_surveys %>%
+    filter(scientific_name != "NA") #56 species 
+  length(unique(dive_surveys_cleaned$family_scientific_name)) #19 families 
 
 ```
 
